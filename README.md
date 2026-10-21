@@ -59,9 +59,9 @@
 **Quais tecnologias você pretende utilizar e por quê?**
 
 - Python:3.14.3
-- Bibliotecas:
-- Frameworks:
-- APIs ou banco de dados, se necessário:
+- Bibliotecas: Depois de pesquisar, usarei html, http, pathlib, threading e webbrowser
+- Frameworks:Flask
+- APIs ou banco de dados, se necessário: API da distribuidora local
 
 ## 🚀 Funcionalidades futuras
 
